@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "total_frames": 375,
+    "avg_processing_time": 0,
+    "max_tracks": 22
+  },
+  "frames": [
+    {
+      "frame_id": 0,
+      "tracks": [
+        {
+          "id": 1,
+          "bbox": [
+            794,
+            470,
+            864,
+            566
+          ],
+          "confidence": 
