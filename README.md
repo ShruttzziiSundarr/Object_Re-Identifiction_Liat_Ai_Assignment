@@ -273,17 +273,6 @@ Each tracker generates different output formats:
    ```
 
 
-
-##  Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/new-tracker`)
-3. Commit changes (`git commit -am 'Add new tracker'`)
-4. Push to branch (`git push origin feature/new-tracker`)
-5. Create Pull Request
-
-
-
 ##  Acknowledgments
 
 - **YOLO**: Object detection framework by Ultralytics
@@ -292,5 +281,5 @@ Each tracker generates different output formats:
 - **OpenCV**: Computer vision library
 - **PyTorch**: Deep learning framework
 
----
+
 
