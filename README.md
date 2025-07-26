@@ -39,7 +39,7 @@ This project implements and compares three different approaches to player tracki
 └── 15sec_input_720p.mp4                  # Sample input video
 ```
 
-## 🔧 Requirements
+##  Requirements
 
 ### Core Dependencies
 ```bash
